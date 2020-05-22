@@ -1,0 +1,10 @@
+[x1, pos]=sort(x,'descend') sap xep
+
+rand(imax,n) lay so ngau nhien trong pham vi imax
+randi(imax,row,col) lay so nguyen ngau nhien
+randn(row,col) :phan bo chuan
+
+floor(n) lam tron xuong
+
+subplot(1,2,1) ve do thi ben trai
+subplot(2,1,1) ve do thi ben tren
